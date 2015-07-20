@@ -1,2 +1,4 @@
 # fbme
-Status updated for facebook
+Status updater for facebook using the FB Graph API
+
+
